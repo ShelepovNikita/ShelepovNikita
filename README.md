@@ -1,6 +1,6 @@
 
 <div id="header" align="center">
-  <img src="https://media3.giphy.com/media/r1wGrCEZ4zTeU/giphy.gif?cid=6c09b952jwojj9g1p18kjd0gjkn03ujh58wptl3t2t8vujz2&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" width="800"/>
+  <img src="https://media3.giphy.com/media/r1wGrCEZ4zTeU/giphy.gif?cid=6c09b952jwojj9g1p18kjd0gjkn03ujh58wptl3t2t8vujz2&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" width="600"/>
 </div>
 
 ### :man_technologist: Проекты: 
